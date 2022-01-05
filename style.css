@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.header-img img {
+    width: 200px;
+}
+
+.mission2022 {
+    display: flex;
+}
