@@ -16,6 +16,7 @@ body {
     display: flex;
     padding-left: 5%;
     font-weight: 700;
+    margin-bottom: 100px;
 
 }
 
@@ -37,4 +38,30 @@ body {
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 300;
+}
+
+.develop-without-limits {
+    display: flex;
+
+
+}
+
+.develop-without-limits-paragraph {
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.develop-with-limits-header {
+    margin-top: 50px;
+}
+
+.header-paragraph {
+    margin-bottom: 30px;
+}
+
+.coding-png {
+    margin-left: 40px;
+
+    height: 500px;
 }
