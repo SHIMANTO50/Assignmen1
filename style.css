@@ -178,3 +178,39 @@ footer span {
 .goals-font-weight {
     font-weight: 400;
 }
+
+.my-skills {
+    display: flex;
+}
+
+.skill-flex {
+    display: flex;
+}
+
+.all-skill {
+    margin-top: 170px;
+    margin-left: 30px;
+
+
+}
+
+.skill-header {
+    text-align: center;
+    color: coral;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+
+.skill-png {
+    border-radius: 10px;
+}
+
+
+.skill-paragraph {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: justify;
+    font-weight: 700;
+    padding-right: 200px;
+
+}
