@@ -113,18 +113,51 @@ footer span {
 }
 
 .mission {
-    width: 300px;
+    width: 350px;
     border: 1px solid gray;
-    border-radius: 5px;
+    border-radius: 10px;
     margin-bottom: 50px;
     background-color: violet;
+    text-align: justify;
 }
 
 .mission img {
     width: 100%;
 }
 
+.vission {
+    width: 350px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    background-color: tomato;
+    text-align: justify;
+}
+
+.vission img {
+    width: 100%;
+}
+
+.goals {
+    width: 350px;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    background-color: lightgreen;
+    text-align: justify;
+
+}
+
+.goals img {
+    width: 100%;
+}
+
 .all-mission-vission {
     display: flex;
     justify-content: space-around;
+    padding: 50px;
+}
+
+.bottom-section {
+    padding: 15px;
 }
