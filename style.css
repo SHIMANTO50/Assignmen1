@@ -120,6 +120,7 @@ footer span {
     margin-bottom: 50px;
     background-color: violet;
     text-align: justify;
+    box-shadow: 4px 4px 12px gray;
 }
 
 .mission img {
@@ -133,6 +134,7 @@ footer span {
     margin-bottom: 50px;
     background-color: tomato;
     text-align: justify;
+    box-shadow: 4px 4px 12px gray;
 }
 
 .vission img {
@@ -146,6 +148,7 @@ footer span {
     margin-bottom: 50px;
     background-color: lightgreen;
     text-align: justify;
+    box-shadow: 4px 4px 12px gray;
 
 }
 
