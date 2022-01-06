@@ -106,3 +106,25 @@ footer h2 {
 footer span {
     color: red;
 }
+
+.mission-header {
+    text-align: center;
+    font-size: 50px;
+}
+
+.mission {
+    width: 300px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    background-color: violet;
+}
+
+.mission img {
+    width: 100%;
+}
+
+.all-mission-vission {
+    display: flex;
+    justify-content: space-around;
+}
