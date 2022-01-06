@@ -1,6 +1,8 @@
 body {
     font-family: 'Poppins', sans-serif;
     font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .orange-color {
@@ -49,6 +51,10 @@ body {
 .develop-without-limits-paragraph {
     margin-top: 30px;
     margin-bottom: 30px;
+    text-align: justify;
+    font-weight: 700;
+    padding-right: 100px;
+
 
 }
 
@@ -58,6 +64,7 @@ body {
 
 .header-paragraph {
     margin-bottom: 30px;
+    text-align: justify;
 }
 
 .coding-png {
@@ -69,16 +76,33 @@ body {
 .know-our-global-community {
     display: flex;
     margin-top: 170px;
+    margin-left: 30px;
 
 }
 
 .kmow-our-global-community-paragraph {
     margin-bottom: 20px;
+    text-align: justify;
+    font-weight: 700;
+    padding-right: 150px;
+
 }
 
 footer {
     text-align: center;
     margin-top: 80px;
     background-color: black;
+    height: 100px;
     color: white;
+    padding-top: 10px;
+
+
+}
+
+footer h2 {
+    font-family: cursive;
+}
+
+footer span {
+    color: red;
 }
