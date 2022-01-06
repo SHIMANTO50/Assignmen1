@@ -65,3 +65,13 @@ body {
 
     height: 500px;
 }
+
+.know-our-global-community {
+    display: flex;
+    margin-top: 170px;
+
+}
+
+.kmow-our-global-community-paragraph {
+    margin-bottom: 20px;
+}
