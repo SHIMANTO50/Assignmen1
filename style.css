@@ -75,3 +75,10 @@ body {
 .kmow-our-global-community-paragraph {
     margin-bottom: 20px;
 }
+
+footer {
+    text-align: center;
+    margin-top: 80px;
+    background-color: black;
+    color: white;
+}
