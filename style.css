@@ -44,6 +44,11 @@ body {
 
 .develop-without-limits {
     display: flex;
+    background-image: url("./images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 100px;
+
 
 
 }
@@ -53,7 +58,7 @@ body {
     margin-bottom: 30px;
     text-align: justify;
     font-weight: 700;
-    padding-right: 100px;
+    padding-right: 100px 100px;
 
 
 }
@@ -78,6 +83,10 @@ body {
     display: flex;
     margin-top: 170px;
     margin-left: 30px;
+    background-image: url("./images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 300px 300px;
 
 }
 
